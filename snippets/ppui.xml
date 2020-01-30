@@ -50,7 +50,7 @@
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="ppui" />
   <project path="packages/services/Telecomm" name="packages_services_Telecomm" remote="ppui" />
   <project path="packages/services/Telephony" name="packages_services_Telephony" remote="ppui" />
-  <project path="packages/apps/Updates" name="packages_apps_Updates" remote="ppui" />
+  <project path="packages/apps/Updater" name="packages_apps_Updater" remote="ppui" />
 
   <!-- System Repos -->
   <project path="system/bt" name="system_bt" remote="ppui" />
