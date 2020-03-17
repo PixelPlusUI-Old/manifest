@@ -32,7 +32,6 @@
   <project path="build/blueprint" name="build_blueprint" remote="ppui" />
   <project path="bootable/recovery" name="bootable_recovery" remote="ppui" />
   <project path="development" name="development" remote="ppui" />
-  <project path="device/custom/sepolicy" name="device_custom_sepolicy" remote="ppui" />
   <project path="manifest" name="manifest" remote="ppui" />
   <project path="platform_testing" name="platform_testing" remote="ppui" />
   <project path="vendor/aosp" name="vendor_aosp" remote="ppui" />
@@ -57,7 +56,6 @@
   <project path="system/bt" name="system_bt" remote="ppui" />
   <project path="system/core" name="system_core" remote="ppui" />
   <project path="system/netd" name="system_netd" remote="ppui" />
-  <project path="system/sepolicy" name="system_sepolicy" remote="ppui" />
   <project path="system/vold" name="system_vold" remote="ppui" />
   <project path="system/keymaster" name="system_keymaster" remote="ppui" />
 
