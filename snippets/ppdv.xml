@@ -8,13 +8,16 @@
   <!-- Device Trees -->
   <project path="device/xiaomi/onclite" name="device_xiaomi_onclite" remote="ppdv" />
   <project path="device/xiaomi/mido" name="device_xiaomi_mido" remote="ppdv" />
+  <project path="device/xiaomi/lavender" name="device_xiaomi_lavender" remote="ppdv" />
 
   <!-- Vendor Blobs -->
   <project path="vendor/xiaomi/onclite" name="vendor_xiaomi_onclite" remote="ppdv" />
   <project path="vendor/xiaomi/mido" name="vendor_xiaomi_mido" remote="ppdv" />
+  <project path="vendor/xiaomi/lavender" name="vendor_xiaomi_lavender" remote="ppdv" />
 
   <!-- Kernel Trees -->
   <project path="kernel/xiaomi/onclite" name="kernel_xiaomi_onclite" remote="ppdv" />
   <project path="kernel/xiaomi/mido" name="kernel_xiaomi_mido" remote="ppdv" />
+  <project path="kernel/xiaomi/lavender" name="kernel_xiaomi_lavender" remote="ppdv" />
   
 </manifest>
