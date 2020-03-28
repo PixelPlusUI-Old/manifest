@@ -801,7 +801,4 @@
   <!-- Add all PixelPlusUI repos -->
   <include name="snippets/ppui.xml" />
 
-  <!-- Add all PixelPlusUI Trees -->
-  <include name="snippets/ppdv.xml" />
-
 </manifest>
