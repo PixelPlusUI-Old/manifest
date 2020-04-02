@@ -15,8 +15,9 @@ $ cd WORKSPACE
 # Install Repo in the created directory
 # Use a real name/email combination, if you intend to submit patches
 $ repo init -u https://github.com/PixelPlusUI/manifest -b ten
+
 # Download the source
-$ repo sync
+$ repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
 
 ```
 
