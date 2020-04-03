@@ -57,6 +57,7 @@
 
   <!-- External Repos -->
   <project path="external/motorola/faceunlock" name="external_motorola_faceunlock" remote="ppui" />
+  <project path="external/asus/stitchimage" name="external_asus_stitchimage" remote="ppui" />
 
   <!-- System Repos -->
   <project path="system/bt" name="system_bt" remote="ppui" />
