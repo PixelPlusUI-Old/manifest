@@ -47,6 +47,7 @@
 
   <!-- Packages repos -->
   <project path="packages/apps/Bluetooth" name="packages_apps_Bluetooth" remote="ppui" />
+  <project path="packages/apps/Papers" name="packages_apps_Papers" remote="ppui" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="ppui" />
   <project path="packages/apps/Snap" name="packages_apps_Snap" remote="ppui" />
   <project path="packages/services/Telecomm" name="packages_services_Telecomm" remote="ppui" />
