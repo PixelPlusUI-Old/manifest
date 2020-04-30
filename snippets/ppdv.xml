@@ -15,6 +15,6 @@
 
   <!-- Kernel Trees -->
   <project path="kernel/xiaomi/onclite" name="kernel_xiaomi_onclite" remote="ppdv" />
-  <project path="kernel/xiaomi/msm8953" name="kernel_xiaomi_msm8953" remote="ppdv" />
+  <project path="kernel/xiaomi/mido" name="kernel_xiaomi_mido" remote="ppdv" />
   
 </manifest>
